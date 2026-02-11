@@ -1,0 +1,9 @@
+Requirements ASSCII String
+
+Must take in a file
+Must read the file in as a string
+Must read to the EOF
+Must keep a counter of how many characters have been seen
+Must evaluate the top characters value
+Must print the amount of asscii characters not used
+Must print the string in reverse
