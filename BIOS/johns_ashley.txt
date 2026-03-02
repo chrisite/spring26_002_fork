@@ -1,0 +1,6 @@
+Languages: C#, Python, some JavaScript
+Things to know:
+ - experienced (a bit) with OOP
+ - some exposure to APIs
+ - familiar with GitHub
+ - some experience with Web Development
