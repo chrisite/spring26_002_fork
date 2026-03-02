@@ -1,0 +1,52 @@
+Test cases for even-numbered Requirements
+	Test Case #
+	<precondition>
+	<action>
+	<postcondition>
+
+2a) solution must initiate a ship launch when system detects no active ships
+	Test Case 1
+	game is running and no ships are on screen
+	no action
+	game has launched a ship
+
+2c) solution must display the appropriate image based on the type of ship that is active
+	Test Case 1
+	game is open and running, configuration set to only one type of ship
+	watch images of ships
+	image of ship matches the type of ship configured
+	-repeat for each ship type
+	
+4) solution must end the game when the user clicks the left mouse button
+	Test Case 1
+	game is open and running
+	click left mouse button
+	game closes
+   
+	Test Case 2
+	game is open and running
+	press any key other than left mouse click, right mouse click, esc, or space
+	game remains open and nothing happens
+
+6) solution must end the game if the user has not initiated a missile launch in the last 5 minutes
+	Test Case 1
+	game is open and running
+ 	leave game idle for 5 minutes
+	game closes
+
+	Test Case 2
+	game is open and running
+	leave game idle between 1 and <5 minutes
+	game remains open
+
+	Test Case 3
+	game is open and running
+	press some keys other than esc, left mouse click, right mouse click, or space for 5 minutes
+	game closes
+
+	Test Case 4
+	game is open and running, has been idle for 4 minutes
+	press space or right click once, then wait 1 minute
+	game launches missile and remains open
+	
+   

@@ -1,0 +1,98 @@
+Team members: Cody Slaughter, Timothy Stout, Alex Smith
+
+----------------
+**Test Cases**
+----------------
+1.
+<Precondition>
+- The game is running
+- < 5 Missiles on the screen
+<Action>
+- User clicked "RMB"
+<Postcondition>
+- Missile launch initiated
+----------------
+2.
+<Precondition>
+- The game is running
+- < 5 Missiles on the screen
+<Action>
+- User clicked "Space Bar"
+<Postcondition>
+- Missile launch initiated
+----------------
+3.
+<Precondition>
+- The game is running
+- < 5 Missiles on the screen
+<Action>
+- User clicked "Esc"
+<Postcondition>
+- Missile launch initiated
+----------------
+4.
+<Precondition>
+- The game is running
+- < 5 Missiles on the screen
+<Action>
+- User clicked "W"
+<Postcondition>
+- Missile launch initiated
+----------------
+5.
+<Precondition>
+- The game is running
+- < 5 Missiles on the screen
+<Action>
+- User clicked "Up Arrow"
+<Postcondition>
+- Missile launch initiated
+----------------
+6.
+<Precondition>
+- The game is running
+- < 5 Missiles on the screen
+<Action>
+- User clicked "LMB"
+<Postcondition>
+- Missile launch initiated
+----------------
+7.
+<Precondition>
+- A ship exists
+- Game is running
+- Missile exists
+<Action>
+- Display explosion
+- Score increments
+- Sound plays
+- Delete missile & ship
+<Postcondition>
+- The solution must detect when a missile “hits” a ship
+----------------
+8.
+<Precondition>
+- The game is running
+- No active ships on the screen
+<Action>
+- Initiate a ship launch
+<Postcondition>
+- There are now active ship(s) on the screen
+----------------
+9.
+<Precondition>
+- The game is running
+<Action>
+- Choose Ship launch location
+<Postcondition>
+- Initiate ship launch at location(x,y,z) facing (left/right)
+----------------
+10.
+<Precondition>
+- The game is running
+- Score < 10
+<Action>
+- Score increments on ship hit
+<Postcondition>
+- Game ends at score of 10
+----------------

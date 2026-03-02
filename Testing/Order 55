@@ -1,0 +1,39 @@
+Toan Nguyen and Hope Cassel
+
+1a) Precondition: Program Running Action: User click right-mouse button Postcondition: Launch one missile
+
+1b) Precondition: Program Running Action: User press spacebar Postcondition: Launch one missile
+
+Precondition: Program Running Action: User press enter button Postcondition: no additional missile launch
+
+Precondition: Program Running Action: User press W button Postcondition: no additional missile launch
+
+1c) Precondition: 5 missiles on the screen Action: User click right-mouse button Postcondition: No additional missile launch
+
+1d) Precondition: user launch missile Action: Missile moves off screen Postcondition: Missile remove from game
+
+1e) Precondition: one missile on screen Action: user launch another missile Postcondition: distance between two missiles remain the same 
+
+1f) precondition: game running Action: user launch missile Postcondition: coordinate where the missile appears (x = width of screen/2, y=0) 
+
+1g) precondition: game running Action: user launch missile Postcondition: coordinate where the missile appears (x = width of screen/2 , y= only increase from 0)
+
+1h) Precondition: Missile launch Action: missile collide with ship Postcondition: game detects missile “hit”
+
+1i) Precondition: missile collide with ship Action: Game detects missile “hit” Postcondition: Create explosion at the coordination of the “hit”
+
+1j) Precondition: missile collide with ship Action: Game detects missile “hit” Postcondition: Remove ship and missile from game
+
+1k) Precondition: Game running Action: Game detects missile “hit” Postcondition: missile hit count increment by 1 
+
+2a) Precondition: Game running Action: No active ship on screen Postcondition: Ship launch function
+
+2b) Precondition: Ship launch function Action: change in configurable value Postcondition: Different type of ship launch 
+
+2c) Precondition: Action ship on screen Action: Game renders active ship image Postcondition: ship image value = active ship value
+
+2d) Precondition: Game running Action: launch ship function Postcondition: Function abort 70% of the time
+
+2di) Precondition: Game running Action: Launch ship function Postcondition:  Ship launch would have x percent chance to be any of the ship type. X = 100/n (n is the number of possible ship type) 
+
+2dii) Precondition: 10 active ships Action: launch Ship function Postcondition: No additional ship launch 
