@@ -1,0 +1,12 @@
+Hi, my name is Derek Tapp.
+
+I am an Information Technology major.
+
+I know C#, Python, JavaScript, HTML/CSS, some Java, and MySQL.
+
+My strongest points:
+- Programming in C# (specifically with ASP.NET)
+- Fluent with Microsoft Office
+- Working with Unix/Linux and Docker containers
+- Managing VPSs
+- Ready to learn new things

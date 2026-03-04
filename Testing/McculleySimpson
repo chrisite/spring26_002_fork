@@ -1,0 +1,13 @@
+Team Members: Alex Simpson, Terry Mcculley
+No Missiles Launched, Timer would start to tick up, Game Ends at 300 seconds
+Game Running, USER hits ESC, Game Ends
+Game Running, USER Right Clicks, Spawns/shoots 1 missile
+Game Running, USER Left Clicks, Game Ends
+Game Running, USER types ‘hello world’, Shoots 1 missile
+Game Running, USER holds down space bar, shoots one missile unless programmed otherwise
+Game Running, USER shoots 5 missiles then press spacebar 3 more times, Unless a Missile has hit an object or run off screen no more missiles spawn
+Game Running, USER enters the Konami Code, nothing happens
+USER Launches a Missile, Missile collides with a battleship, battleship gets blown up and both Missile and Ship disappear
+USER is actively playing the game, they successfully hit their 10 th ship, Game displays a congrats you won and exits
+Game Running, no ships on screen, Ship immediately Launch
+Game Running, ships launching randomly, ships in a variety of different locations
