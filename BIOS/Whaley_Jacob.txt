@@ -1,0 +1,14 @@
+Jacob Whaley Email: WHALEYJD@ETSU.EDU  Discord: Rosemane (Shao_Den)
+IS Concentration
+
+I have strong experience with source control and organizing development workflows. I’m comfortable managing branches, merges, and version control processes, and I understand how important structure and clarity are when working in a team environment.
+
+I work well with people and am confident in managing deadlines, task delegation, and keeping projects on track. I tend to focus on the overall process and making sure everyone understands expectations and milestones. I am also a fast learner and can pick up new topics or ideas quickly for the benefit of the team. 
+
+From a technical standpoint, I’m comfortable working with C#, Python, HTML, and SQL. Depending on the language and scope of the project, I can contribute effectively to both backend logic and database-related tasks, as well as general application structure.
+
+I believe I bring strong organizational skills and process-oriented thinking. I’m confident in helping guide documentation, structure, version control strategy, and keeping the team aligned with the methodologies we’ve discussed.
+
+That said, I’m open to improving my technical depth. If there’s someone who wants to collaborate more heavily on the programming side, I’m more than willing to learn, pair program, and strengthen my weaker areas while contributing my strengths in planning and coordination.
+
+Overall, I just want a team who can enjoy the work behind the project and can meet the deadlines so we can better understand how the topics in lecture relate to the real world in a project example. 
