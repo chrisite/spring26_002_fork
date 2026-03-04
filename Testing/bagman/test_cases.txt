@@ -1,0 +1,35 @@
+{
+	"precondition": "There are 5 active missiles displayed on the screen",
+	"action": "A input to launch a 6th missile is done",
+	"postcondition": "The input for the 6th missile is refused"
+},
+{
+	"precondition": "There are 5 active missiles displayed on the screen",
+	"action": "A 6th missile is displayed on the screen",
+	"postcondition": "The game exits gracefully"
+},
+{
+	"precondition": "The game is running and a round has started",
+	"action": "A missile is launched on the screen, and time elapses for a missle to go off the screen",
+	"postcondition": "The missile status is set to deactiviated"
+},
+{
+	"precondition": "The game is running and a round has started.",
+	"action": "A missile is launched on the screen.",
+	"postcondition": "The missile status is marked as active."
+},
+{
+	"precondition": "A round has started and a missile has been launched",
+	"action": "detect if there is a active missile on the screen",
+	"postcondition": "There is a single active missile on the screen detected"
+},
+{
+	"precondition": "A game is running and a round has started.",
+	"action": "launch two missiles at different speeds",
+	"postcondition": "game errors and possibly exits gracefully"
+},
+{
+	"precondition": "",
+	"action": "",
+	"postcondition": ""
+},

@@ -1,0 +1,12 @@
+Hi! My name is Cody.
+
+I am an Information Technology Major (previously Digital Media).
+
+Some known languages are C++, Java, C#, HTML, CSS, Python, JavaScript (kinda), and (some) Lua.
+
+Experience:
+- Fluent in Unreal Engine 5
+- Modeling in Maya
+- Semi-Fluent in certain Adobe Suite programs
+- Very fluent in Microsoft Office
+- Has some experience within Roblox Studio

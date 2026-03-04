@@ -1,0 +1,26 @@
+# Space Dual
+Story-Driven Rouge like game.
+
+## Requirements
+1.) Users will start with 3 total hearts, allowing room for upgrades in the future
+2.) Users will also start by doing a base 10 damage to all enemies, unless armor is applied on said enemy
+3.) Boss fight necessary on each new floor of the level
+4.) Software solution to the game must support and adapt to ALL PC os platforms and console versions with adaptility to mobile
+5.) Each player victory of floor must drop an item with the following drop rates:
+- Required keepass for next floor (100% drop)
+- Common item (grey) (70%)
+- Uncommon item (green) (40%)
+- Rare item (blue) (20%)
+- Epic item (10%)
+- Legendary item (5%)
+- Mythic item (1%)
+Note that these items add over 100%
+6.) Drop rate functionality:
+The end level boss fight will *always* drop the keepass for the next level.
+Then, it cycles through the rest of the drop rates, iteratively testing to see if it hits that percentage.
+So in theory, the boss can drop a common, uncommon, rare, etc... at the same time, or could drop nothing.
+7.) Each level floor gets exponentially harder, so the user will eventually be eliminated without causing an infinite game loop of levels
+8.) Each 10 floors gives the user a perk with a maximum of 10 perks which scale with the type of class build they have
+9.) Perks wil be updated and new ones will drop bi-monthly so users can constantly experiment with their favorite builds.
+10.) There are 3 base classes to play as and build on: Melee, Magic, and Ranged. Perks will compliment these roles.
+  Bosses will utilize the drop rates mentioned earlier to drop modifiers and weapons for users to continue through the tower floors.

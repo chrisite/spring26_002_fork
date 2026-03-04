@@ -1,0 +1,11 @@
+Space Invaders Requirements
+user must be able to fire a projectile - mandatory, functional
+user must be able to move left and right - mandatory, functional
+current score must be displayed - mandatory, functional
+must display top 10 scores after game over - mandatory, functional
+must have invaders (enemies) arranged in grid - mandatory, functional
+invaders must move horizontally left and right - mandatory, functional
+invaders must shift down when the grid touches either side - mandatory, functional
+may have a power up 'randomly' appear near player that increases fire rate - optional, functional
+user should only be able to fire once previous projectile either hits an invader or the top edge - mandatory, functional
+invaders should increase speed after certain score - mandatory, functional

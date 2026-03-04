@@ -1,0 +1,25 @@
+Pac-man
+
+10 requirements
+
+1.	The player must have option to start the game on the entrance screen
+
+2.	The game must have walls that player can’t go through
+
+3.	The game must allow players to move in four direction (up, down, side to side)
+
+4.	The game use the arrows on the keyboard as input
+
+5.	The game must have small circle for player to collect as score
+
+6.	The game must have one small circle as the power up upgrade
+
+7.	The ghosts must be eatable by player when power up circle is consume
+
+8.	The eatable ghost must be destroy after colliding with power up player
+
+9.	After the ghost is destroy, the respawn time for the ghost should be 7 seconds
+
+10.	The game must end when the player collect all small circle or all lives are gone
+
+11.	The player must have 3 lives

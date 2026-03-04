@@ -1,0 +1,19 @@
+**Pac-Man**
+1. The game must generate a level in the form of a maze.
+  a. The maze's corridors should contain pellets that come in two sizes: large and small.
+    i. One large pellet should generate in each of the maze's four corners.
+    ii. A trail of small pellets should fill all of the maze corridors between each large pellet
+  b. The maze should generate with four ghosts in its south corridor: one red, one oragne, one pink, and one blue.
+    i. Each ghost should seek to move towards the player.
+2. The game needs an avatar that can move in the four cardinal directions to navigate the maze.
+  a. The avatar's movement must halt if it would intersect a maze wall, i.e. the character should have collision.
+3. The game must display the player's current score at the top of the screen
+  a. The score will start at 0 unless the game reset under the conditions of requirement 7.
+4. If the player avatar touches a pellet, the player should gain points.
+  a. If the player touches a small pellet, they should gain 10 points.
+  b. If the player touches a large pellet, they should gain 50 points.
+  c. If the player touches a large pellet, all ghosts should turn blue and flee the player avatar for 10 seconds.
+5. If the player avatar touches a ghost, the game will end.
+  a. If the player touches a ghost while the ghost is blue, the ghost will disappear and the player should gain 200 points.
+6. When the game ends, the maze should reset back to its initial state.
+7. If the player has touched all pellets in the maze, the game should reset back to its initial state with exception to the player's score.

@@ -1,0 +1,11 @@
+1 | The game loop must run within a 1 to 5 minute time frame per round.
+2 | The game should have differing difficulty levels (easy/medium/hard).
+3 | The player must have the ability to draw and play cards according to standard Uno rules.
+4 | The game should include special action cards (Skip, Reverse, Draw Two, Wild, Wild Draw Four).
+5 | The match will end when a player reaches 500 points or after 5 rounds.
+6 | The bot must confine to the rules and make mistakes based on selected difficulty.
+7 | The game should feature an interface with clear instructions and visual cues.
+8 | The game should include sound effects and background music to enhance the arcade experience.
+9 | The game must keep track of scores and display them at the end of each round.
+10 | The game must have a turn timer to keep the pace fast and engaging.
+11 | The game shall update the UI within 200 ms after a card is played or drawn.

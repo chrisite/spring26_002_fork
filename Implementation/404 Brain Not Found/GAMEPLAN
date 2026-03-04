@@ -1,0 +1,11 @@
+Reqs.
+1. must take in user inputs
+2. RECURSION
+3. Limit input to 2 numbers
+4. ONLY WHOLE NUMBERS +-
+5. Must come to a single digit
+6. ADD the 2 number
+7. No decimal points
+8. Locate the least sig digit
+9. separate it
+10. add it the remaining digits and so on until you have a single digit answer.  

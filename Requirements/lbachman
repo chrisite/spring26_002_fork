@@ -1,0 +1,32 @@
+**Classic Game Requirements**
+
+
+1) The game shall allow the player to control a snake that moves continuously within the play area.
+
+2) The snake shall change direction in response to player input.
+
+3) The snake shall move at a constant speed that increases as the game progresses (increase difficulty).
+
+4) The snake shall grow in length when it consumes food.
+
+5) The game shall end when the snake collides with itself.
+
+6) The game shall end when the snake collides with the boundary of the play area.
+
+7) Food shall appear at a valid location that is not occupied by the snake.
+
+8) Only one piece of food shall be present at a time.
+
+9) The game shall increase the player’s score each time food is consumed.
+
+10) The game shall display the current score during gameplay.
+
+**New Features**
+
+1) have invincebility tokens randomly pop up temporarly where the snake shall pass through itself and not be harmed for 30 seconds.
+
+2) Have rare "super food" appear that awards significant bonus points and disappears quickly. 
+
+3) "Rats" shall pop up that spawn and move towards the boundry of the play area before disappearing. They move slower than the snake. Twice as many points as food. 
+
+4) temporary "slow motion" tokens pop up temporarly at high scores that slow the speed of gameplay. 

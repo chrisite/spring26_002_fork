@@ -1,0 +1,11 @@
+Mobile pinball style game:
+1. Must be a mobile game
+2. Must have a name shorter than 10 characters
+3. Must have gravity for a ball the user interacts with
+4. Must have pinball style mechanics
+5. Must have touchscreen mechanics to move pinball
+6. Must have a level progression system
+7. Must have a scoring system
+8. Must have a feature to save progress
+9. Must have bright colors for level designs
+10. Must have sound effects when ball hits a spring

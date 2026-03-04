@@ -1,0 +1,39 @@
+1.	Precondition – The game is running
+Action – The user clicks the space bar
+Postcondition – A missile is launched
+
+2.	Precondition – There are 5 ships on the screen
+Action – A missile hits a ship
+Postcondition – The ship hit disappears
+
+3.	Precondition – A missile is fired
+Action – The ship is hit
+Postcondition – A explosion appears
+
+a)	Precondition – A missile is fired 
+Action – The missile misses
+Postcondition – The missile exits the screen
+
+4.	Precondition – There are no ships
+Action – The solution makes ships
+Postcondition – Ships appear moving right to left or left to right 
+
+5.	Precondition – The game is running
+Action – 10 ships are hit
+Postcondition – the game ends
+
+6.	Precondition – The game started 
+Action – The user has not touched any keys
+Postcondition – The game ends
+
+7.	Precondition - The game has started
+Action – The user clicks the left mouse button
+Postcondition – The game ends
+
+8.	Precondition – The ship enters the screen
+Action – The ship leaves the screen
+Postcondition – The solution removes the ship from being active
+
+While doing this exercise it is nice to see what can go wrong just as much can go right. 
+In the ideal game the user would hit a ship every time, however that won’t always be the case. 
+It made me think of the different possibilities instead of just what is expected to happen. 

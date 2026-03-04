@@ -1,0 +1,9 @@
+Team Name: Nathaniel an Alex
+
+The Plan:
+1. Ask the user for 2 numbers
+2. Add those nunbers together
+3. Get the last digit of the number with / 10 and assign it to a variable (num1)
+4. Assign the number without the last digit to a variable (num2)
+5. Add both of those variables together
+6. Loop until you get a single digit number

@@ -1,0 +1,10 @@
+chess
+The board should consist of an 8x8 tile board composed of alternating black and white squares
+The game supports 2 players
+The rank of the opposing sides shall have pieces arranged in a mirrored configuration (like pieces face like pieces)
+The back rank pieces consists of: [rook, knight, bishop, queen, king, bishop, knight, rook]
+King and queen are swapped according to the rule: queens on their color
+The white player starts with their pieces arranged such that the bottom right square is white
+Pawns move on tile 'forward' (toward the opposite player's side), except on each pawn's first move, where they may move 2 tiles
+Upon reaching the opposite rank they started, a pawn can be promoted to: [rook, knight, bishop, or queen]
+A player may not make a move that places their king under attack from an opponent's piece

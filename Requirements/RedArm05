@@ -1,0 +1,11 @@
+Maze Adventure Requirements
+user must be able to move up, down, left, and right – mandatory, functional
+user must start the game at a fixed starting position – mandatory, functional
+exit tile must end the level when reached – mandatory, functional
+player health must be displayed on screen – mandatory, functional
+monsters must appear at random open locations in the maze – mandatory, functional
+player must battle a monster when landing on its tile – mandatory, functional
+Items must be collected when the player moves onto their tile – mandatory, functional
+game must save progress after each level is completed – mandatory, functional
+may include health potions that restore player health – optional, functional
+monsters must deal damage when attacking the player – mandatory, functional

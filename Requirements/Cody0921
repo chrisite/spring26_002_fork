@@ -1,0 +1,17 @@
+**Bucky's Barrel Bash**
+
+- Requirements:
+- Include a player-controlled character that can move left and right.
+- The player shall be able to jump to avoid obstacles and reach higher platforms.
+- Consist of multiple stacked platforms connected by ladders.
+- The player shall be able to climb ladders to move between platform levels.
+- Include an enemy at the top of the tower that throws obstacles downward.
+- Include moving obstacles (e.g., barrels) that roll across platforms.
+- Contact with an obstacle shall result in the player losing a life.
+- The player shall start the game with a limited number of lives.
+- End the game when the player runs out of lives.
+- Track and display the player’s score.
+- The score shall increase when the player avoids obstacles or climbs higher.
+- Include a win condition when the player reaches the top platform.
+- Increase game difficulty by increasing obstacle speed or frequency.
+- Include a start screen and a game-over screen.
