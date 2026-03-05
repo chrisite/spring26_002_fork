@@ -1,0 +1,17 @@
+
+Hello, my name is Akmal Arifov 
+( Email: arifov@etsu.edu, discord: aj4learning ) 
+
+About Me
+I am a Computer Science major aiming to become a software developer. I thrive in structured environments
+and prefer to establish a clear project plan and version control before we code. I will put my best effort
+and am willing to learn any new concept, language, or framework to make our project a success. 
+
+Technical Skills
+- Languages: C#, Python, JavaScript, SQL
+- Web: HTML, CSS
+- Tools: Linux Terminal, Git/GitHub
+
+Projects
+I have worked and developed a functional terminal based Battleship game using C#. 
+
