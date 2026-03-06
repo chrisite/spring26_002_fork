@@ -1,0 +1,22 @@
+Alex Davis davisac7@etsu.edu discord - yetalon
+
+Computer science concentration
+
+I am a data engineer that enjoys cloud development.
+I work well in a fast pace result driven team.
+I enjoy working with aws, setting up CI/CD pipelines, constantly learning new ways to do things, and teaching what I know.
+For the project with the little information we have I am confident in my skills to wire up a website to run in the cloud along with the proper security.
+I am not particularly good with ui development. Fun fact I cannot picture things in my head at all (aphantasia).
+
+Skills:
+    Github
+    CI/CD - deployment and testing automation
+    Git
+    Docker
+    Cloud Development
+    Cloud Architectural Design
+    Backend Development
+    Python
+    TypeScript and React - basic familiarity
+    QA - Not my favorite
+    SCRUM - some experience
